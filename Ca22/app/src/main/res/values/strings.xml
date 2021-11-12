@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ca2 2</string>
+    <string-array name="Branches">
+        <item>cse</item>
+        <item>ece</item>
+        <item>mechanical</item>
+        <item>biotech</item>
+        <item>metallurgy</item>
+        <item>chemical</item>
+    </string-array>
+</resources>
